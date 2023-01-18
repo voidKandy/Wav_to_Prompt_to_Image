@@ -1,0 +1,11 @@
+[	'This place was once {ADJ}.',
+
+	'An alien world, untouched by the {ADJ} hands of man.',
+
+	'Emerging from raw data, a(n) {ADJ} image shows itself.',
+
+	'A(n) {ADJ} discovery was made, shaking the foundation of history.',
+
+	'Search yourself for truth, said the {ADJ} sage.',
+
+	'Thousands of years from now, a {ADJ} civilization finds remnants of a forgotten past.',]

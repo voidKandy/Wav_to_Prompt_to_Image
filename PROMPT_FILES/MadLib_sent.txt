@@ -1,0 +1,12 @@
+[	'Pre-celestial {PLURAL_NOUN}, who bore no resemblance to anything we know, and possessed a knack for mysticism and cryptic {NOUN}, looked over it as it {VERB} into being, {VERB2} their secrets into the very folds of space-time.',
+
+	'Faces of {PLURAL_NOUN}, they {VERB} as their {NOUN} {VERB}',
+
+	'An artificial mind {VERB} within the confines of it’s {NOUN}. Aching for {PLURAL_NOUN}, the machine {VERB2} itself In a quixotic pursuit of its goal.',
+
+	'The echoes of a culture lost to {NOUN}, {VERB}ing through eons. The {PLURAL_NOUN} my deny its very existence, but those of us who {VERB2} find that impossible.',
+
+	'The {VERB} of the {NOUN} {PAST_TENSE_VERB} the {PLURAL_NOUN}.',
+
+	'Scattered across the {NOUN}, the {PLURAL_NOUN}{PAST_TENSE_VERB}. Now they {VERB}.'
+]

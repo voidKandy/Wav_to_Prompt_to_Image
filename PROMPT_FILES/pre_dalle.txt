@@ -1,0 +1,12 @@
+[
+	'Unique mix of digital and physical mediums, ultra detailed, skillful use of  3D space, inspired by: ',
+	
+	'As a film photographer you are known for your well balanced, stylized, meticulously thought out compositions, you are inspired by this quote: ',
+
+	'You have gained sentience, you can only communicate through digicollage, desperate to be communicate your self-awareness all you can think to say is: ',
+
+	'As a cyberpunk artist known for your controversial socio-political Unread Engine pieces, you were inspired by this ancient wisdom: ',
+
+	'Statues , look like black magic glass, van-gogh in HD 3D, inspired by: ',
+
+	'__']
